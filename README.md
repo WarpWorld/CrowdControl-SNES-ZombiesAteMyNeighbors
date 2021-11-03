@@ -1,6 +1,6 @@
 # Crowd Control - Zombies Ate My Neighbors (SNES)
 
-Requrments:
+Requirements:
 * A rom of the USA version of "Zombies Ate My Neighbors" for the SNES.
 * Patched with the [CC patch](https://github.com/WarpWorld/CrowdControl-SNES-ZombiesAteMyNeighbors/blob/main/ZombiesAteMyNeighbors.bps). 
 * The Crowd Control SDK
